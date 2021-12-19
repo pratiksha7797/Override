@@ -7,9 +7,6 @@ public class Class {
         subclass1 s1 = new subclass1();
 
         s1.message();
-
-
-
         subclass2 s2 = new subclass2();
 
         s2.message();
